@@ -29,7 +29,7 @@ function processData(allText) {
             lines.push(tarr);
         }
     }
-    alert(lines);
+    alert(lines[1]);
     // alert(lines);
 }
 </script>
